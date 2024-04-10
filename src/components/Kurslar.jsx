@@ -30,7 +30,7 @@ export default function Kurslar() {
               <Box ml={2}>
                 <Typography variant="h5">HTML, CSS</Typography>
                 <Typography variant="subtitle1" color={{ color: "#667085" }}>
-                  2 oy
+                  2 oy va 3 oy
                 </Typography>
               </Box>
             </CardContent>
