@@ -43,7 +43,7 @@ export default function MainNavbar(props) {
     >
       <Grid container sx={{ justifyContent: 'space-between' }}>
         <Grid item xs={3} />
-        <Grid item xs={4.5}>
+        <Grid item xs={6}>
           <Box sx={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
             <Box>
               <Typography sx={{ fontSize: '16px' }} variant="subtitle1">Online Kurslar</Typography>
